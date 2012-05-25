@@ -1,0 +1,7 @@
+PODS:
+  - AFNetworking (1.0RC1)
+  - KSCrypto (1.0.2)
+
+DEPENDENCIES:
+  - AFNetworking
+  - KSCrypto
